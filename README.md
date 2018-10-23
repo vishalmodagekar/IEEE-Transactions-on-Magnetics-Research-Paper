@@ -1,0 +1,2 @@
+# Linear Regression with Stepwise Variable Selection on Highly Correlated Variables
+The .pdf file contains the research paper [V. Modagekar, S. A. Karim, N. Singh and F. Kazi, "Optimization in Tri-Axial Degaussing System Design and Estimation of Degaussing Coil Currents," in IEEE Transactions on Magnetics, vol. 53, no. 4, pp. 1-12, April 2017, Art no. 7400312. doi: 10.1109/TMAG.2016.2642890](https://ieeexplore.ieee.org/document/7792739) and the .m file contains the MATLAB code of a function implementing the algorithm proposed in the mentioned research paper.
